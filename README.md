@@ -1,2 +1,4 @@
-# Sem7_BDA
-Repository for BDA Experiment Sem VII
+#Sem7_BDA
+
+Name : Ajay Shitkar
+Roll No : 14
